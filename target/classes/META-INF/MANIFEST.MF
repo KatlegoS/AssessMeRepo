@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AssessMe
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Katmane
+Implementation-Vendor-Id: za.co.digitalplatoon
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AssessMe
+Created-By: Maven Integration for Eclipse
+
